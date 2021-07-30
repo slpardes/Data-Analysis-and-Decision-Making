@@ -1,2 +1,3 @@
-# Business-Analytics
-Business analytics including advanced spreadsheets; relational database and SQL queries; statistical analysis in R including multi-linear regression, interactions, tests for regression assumptions, logit, probit; neural networks; and dashboards.
+# 	Data Analysis and Decision Making 
+
+Concepts, principles and methods to support scientific approach to managerial problem solving and process improvement. Basic statistical techniques, their appropriateness to situations and assumptions underlying their use.
