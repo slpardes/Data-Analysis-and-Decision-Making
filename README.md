@@ -1,3 +1,3 @@
 # 	Data Analysis and Decision Making 
 
-Concepts, principles and methods to support scientific approach to managerial problem solving and process improvement. Basic statistical techniques, their appropriateness to situations and assumptions underlying their use.
+The culminating assignment for this class was to  improve upon a process using the DMAIC method. This included collecting/measuring data, creating a data measurement plan, calculating the SQL value, and working with at least five different techniques to conduct analysis.
